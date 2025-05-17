@@ -13,7 +13,7 @@ Já o Guru, está ali para os Gamers de plantão que já jogam e já sabem exata
 
 ## Por Que o Ozy Existe? (O Teste)
 
-"Quando eu terminei essa versão do Ozy, eu resolvi testar com alguns parentes mais velhos. A reação deles foi impagável, alguns deles disseram que se eu manter o projeto ativo eles pretendem continuar usando. Ver eles felizes por poderem ter um Guia para um mundo desconhecido foi incrivel. Enviei para alguns amigos testarem, com eles adorando a facilidade de terem um tutorial na mão sem precisarem navegador por dezenas de fórums."
+"Quando eu terminei essa versão do Ozy, eu resolvi testar com alguns parentes mais velhos. A reação deles foi impagável, alguns deles disseram que se eu manter o projeto ativo eles pretendem continuar usando. Ver eles felizes por poderem ter um Guia para um mundo desconhecido foi incrivel. Enviei para alguns amigos testarem, com eles adorando a facilidade de terem um tutorial na mão sem precisarem navegar por dezenas de fórums."
 
 ## Personas do Ozy
 

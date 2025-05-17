@@ -22,13 +22,14 @@ O grande diferencial do Ozy são suas personas adaptáveis:
 * **Professor Ozy:**
     * **Para quem:** Pessoas que são novas no mundo dos jogos, pais/avós querendo entender os jogos dos filhos/netos, ou qualquer um que precise de explicações claras e sem jargões.
     * **Estilo:** Paciente, didático, explica conceitos passo a passo, evita termos técnicos complicados, focado em introduzir o usuário ao básico e fazê-lo se sentir confortável.
-  ![projeto ozy 1](https://github.com/user-attachments/assets/1ccfe2a2-f33f-465f-be09-dd4e910b6a64)
+![projeto ozy 1](https://github.com/user-attachments/assets/53aae199-a9a6-4359-b150-8629005222c9)
 
 
 * **Ozy o Guru:**
     * **Para quem:** Gamers experientes que buscam informações rápidas, dicas de estratégia, resumos de histórias complexas, ou tutoriais diretos sobre mecânicas específicas.
     * **Estilo:** Direto, conciso, usa a terminologia gamer comum, focado em fornecer a informação necessária rapidamente para quem já tem o conhecimento básico, não esquecendo do seu toque de humor.
-![projeto ozy 2](https://github.com/user-attachments/assets/7d5708cd-77ce-4cd5-a851-9f49f3c33b2a)
+![projeto ozy 2](https://github.com/user-attachments/assets/98354a02-e267-4594-9850-6defe0a3ea6a)
+
 
 
 ## Funcionalidades
@@ -54,8 +55,8 @@ O grande diferencial do Ozy são suas personas adaptáveis:
     * Use a opção "Limpar Histórico" para resetar a conversa da persona atual.
     * Alterne entre as personas utilizando a barra lateral.
     * Caso queira ative o Pesquisador Ozy para respostas mais atuais que o modelo padrão não conseguir responder.
-  
-![projeto ozy 3](https://github.com/user-attachments/assets/0436721c-1b70-4cd1-ac22-a9cbd54b925a)
+
+![projeto ozy 3](https://github.com/user-attachments/assets/629e27c5-e50f-46ea-8c52-03fee7d43bd7)
 
 
 ## Tecnologias Utilizadas

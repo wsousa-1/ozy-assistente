@@ -45,7 +45,7 @@ O grande diferencial do Ozy são suas personas adaptáveis:
 ## Uso
 
 1.  **Acessando o Ozy:** Basta entrar no link indexado a seguir.
-2.  
+2.  **Acesse o site do Ozy:** [Ozy o Assistente](https://ozy-assistente.streamlit.app/)
     
 
 3.  **Como Usar o Chatbot:**
